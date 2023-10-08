@@ -12,7 +12,7 @@ This project implements a latent diffusion model for generating highly realistic
 ### Steps
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/bozkuya/Latent-Diffusion-Model-for-Face-Generation>
 ```
 2. Change to the directory of the cloned repository:
 ```bash
